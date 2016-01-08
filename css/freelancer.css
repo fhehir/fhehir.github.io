@@ -84,7 +84,7 @@ header {
     color: #fff;
     background: #18bc9c;
 	background-size: cover;
-	background-image: url(img/sky.jpg)
+	background-image: url(img/sky.jpg);
 }
 
 header .container {
