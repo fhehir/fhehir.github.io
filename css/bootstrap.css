@@ -1125,8 +1125,10 @@ img {
 .carousel-inner > .item > img,
 .carousel-inner > .item > a > img {
   display: block;
-  max-width: 100%;
+  max-width: 500px;
   height: auto;
+  rotation-point: 50% 50%;
+  rotation: 90deg;
 }
 .img-rounded {
   border-radius: 6px;
