@@ -182,10 +182,10 @@ section h2 {
 }
 
 section.success {
-    color: #18bc9c;
+    color: #fff;
     background: #18bc9c;
 	background-size: cover;
-	background-image: url(http://i.imgur.com/dAqOhOM.jpg);
+	background-image: url(https://farm4.staticflickr.com/3890/14658383326_816b137b57_k.jpg);
 }
 
 section.success a,
