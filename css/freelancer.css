@@ -84,7 +84,7 @@ header {
     color: #fff;
     background: #18bc9c;
 	background-size: cover;
-	background-image: url('C:\Users\Flannan\Documents\GitHub\fhehir.github.io\img\IMG_4004');  /* http://farm9.staticflickr.com//8868//18205140545_c48ca49018_h.jpg */
+	background-image: url('..\img\IMG_4004');  /* http://farm9.staticflickr.com//8868//18205140545_c48ca49018_h.jpg */
 }
 
 header .container {
